@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+A challenge I had while building the app was following the provided video walkthrough. It was difficult to follow along because the speaker is using an outdated version of XCode meaning it was hard to locate all of the functionalities necessary to complete the project.
 
 ## License
 
