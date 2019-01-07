@@ -14,6 +14,9 @@
 		2DA1C26421E30E350063D2CC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2DA1C26221E30E350063D2CC /* LaunchScreen.storyboard */; };
 		2DA1C26F21E30E350063D2CC /* TipCalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DA1C26E21E30E350063D2CC /* TipCalculatorTests.swift */; };
 		2DA1C27A21E30E350063D2CC /* TipCalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DA1C27921E30E350063D2CC /* TipCalculatorUITests.swift */; };
+		2DC970E421E31F960010541A /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DC970E321E31F960010541A /* SettingsViewController.swift */; };
+		2DC970E521E31F960010541A /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DC970E321E31F960010541A /* SettingsViewController.swift */; };
+		2DC970E621E31F960010541A /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DC970E321E31F960010541A /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +50,7 @@
 		2DA1C27521E30E350063D2CC /* TipCalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TipCalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DA1C27921E30E350063D2CC /* TipCalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipCalculatorUITests.swift; sourceTree = "<group>"; };
 		2DA1C27B21E30E350063D2CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2DC970E321E31F960010541A /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +103,7 @@
 			children = (
 				2DA1C25921E30E320063D2CC /* AppDelegate.swift */,
 				2DA1C25B21E30E320063D2CC /* ViewController.swift */,
+				2DC970E321E31F960010541A /* SettingsViewController.swift */,
 				2DA1C25D21E30E320063D2CC /* Main.storyboard */,
 				2DA1C26021E30E350063D2CC /* Assets.xcassets */,
 				2DA1C26221E30E350063D2CC /* LaunchScreen.storyboard */,
@@ -258,6 +263,7 @@
 			files = (
 				2DA1C25C21E30E320063D2CC /* ViewController.swift in Sources */,
 				2DA1C25A21E30E320063D2CC /* AppDelegate.swift in Sources */,
+				2DC970E421E31F960010541A /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,6 +272,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2DA1C26F21E30E350063D2CC /* TipCalculatorTests.swift in Sources */,
+				2DC970E521E31F960010541A /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,6 +281,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2DA1C27A21E30E350063D2CC /* TipCalculatorUITests.swift in Sources */,
+				2DC970E621E31F960010541A /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
